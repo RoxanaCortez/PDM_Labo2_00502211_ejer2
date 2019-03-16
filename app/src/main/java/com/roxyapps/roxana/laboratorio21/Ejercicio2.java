@@ -17,7 +17,7 @@ public class Ejercicio2 extends AppCompatActivity {
     private ImageView img8;
     private ImageView img9;
 
-    private int[] imagenes = new int[]{R.drawable.poke1, R.drawable.poke2, R.drawable.poke3, R.drawable.poke4, R.drawable.poke5};
+    private int[] imagenes = new int[]{R.drawable.poke1, R.drawable.poke2, R.drawable.poke3, R.drawable.poke4, R.drawable.poke5, R.drawable.poke6, R.drawable.poke7, R.drawable.poke8};
 
     private View.OnClickListener clickListener = new View.OnClickListener() {
         @Override
